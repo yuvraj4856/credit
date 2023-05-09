@@ -1,0 +1,17 @@
+
+h2 {
+  text-align: center;
+  color: brown;
+}
+
+h3 {
+  color: indigo;
+}
+
+body {
+  background-color: beige;
+}
+
+#abc{
+/* text-align: right; */
+}
